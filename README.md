@@ -1,4 +1,4 @@
-[()[]](https://github.com/djcgabayan-tech/Elective-Laboratories/blob/main/Laboratory%202/Branding/Banner.png)
+
 
 ## Hi there 👋
 # 💫 About Me:
