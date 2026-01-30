@@ -1,3 +1,5 @@
+()[]https://github.com/djcgabayan-tech/Elective-Laboratories/blob/main/Laboratory%202/Branding/Banner.png
+
 ## Hi there 👋
 # 💫 About Me:
 🔭 I’m currently working on Video Editing<br>🤝 I’m looking for help with Job Opportunities<br>🌱 I’m currently learning copywriting<br>
